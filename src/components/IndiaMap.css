@@ -1,0 +1,12 @@
+.map-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Full vertical center */
+  background-color: #f9f9f9; /* Optional */
+  overflow: auto;
+}
+
+.map-image {
+  display: block;
+}
